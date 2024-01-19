@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Dynamic Tab Titles for OpenAI Chat
-// @namespace    http://your-namespace.com
+// @namespace    https://github.com/eud101i/scripts.git
 // @version      0.1
 // @description  Set the tab title dynamically for OpenAI Chat
-// @author       Your Name
+// @author       eud101i
 // @match        https://chat.openai.com/c/*
 // @grant        none
 // ==/UserScript==
